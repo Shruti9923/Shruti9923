@@ -3,8 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-deshmane-ba7897358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutideshmane0909@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutideshmane0909@gmail.com) 
 <p>
+<a href="https://linkedin.com/in/shruti-deshmane-ba7897358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-deshmane-ba7897358" height="30" width="40" /></a>
 <a href="https://kaggle.com/shrutideshmane99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrutideshmane99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrutideshmane99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutideshmane99" height="30" width="40" /></a></p>
 
