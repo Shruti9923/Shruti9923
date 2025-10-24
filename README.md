@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 Hi, I’m Shruti Deshmane!<br>I’m an MCA Cloud Computing student passionate about building scalable web applications and cloud-based solutions. I love working with Python, Flask, and modern cloud technologies like AWS and Azure. Currently exploring AI-driven analytics and full-stack development.<br>🌱 Always learning | ☁️ Cloud Enthusiast | 💡 Problem Solver
+💻 Hi, I’m Shruti Deshmane!
+I’m an MCA Cloud Computing student with a strong interest in full-stack and cloud-native development. Skilled in Python, Django, Flask, FastAPI, and the MERN stack, I build scalable and efficient applications. Experienced with AWS, Azure, and Google Cloud Platform (GCP) for deploying and managing cloud solutions.
+🌐 Passionate about cloud innovation, backend engineering, and creating impactful digital solutions.<br>🌱 Always learning | ☁️ Cloud Enthusiast | 💡 Problem Solver
 
 
 ## 🌐 Socials:
